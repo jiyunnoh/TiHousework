@@ -5,7 +5,7 @@
 티 안나는 집안일, 티나게 하자! <br>
 
 ## About The Project
-**Notion Page : https://witty-anorak-6de.notion.site/Ti-housework-719f750188634296a050f2d110016df1**
+**Notion Page : https://msukim.notion.site/Ti-housework-719f750188634296a050f2d110016df1**
 
 ## Getting Started / 어떻게 시작하나요?
 ### Prerequisites / 선행 조건
